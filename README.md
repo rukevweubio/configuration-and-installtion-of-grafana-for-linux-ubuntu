@@ -120,3 +120,22 @@ sudo grafana-cli admin reset-admin-password newpassword
 ## Conclusion
 Grafana is a powerful visualization tool that enhances Linux system monitoring by providing real-time dashboards and alerting capabilities. By integrating it with Prometheus, administrators can gain deep insights into system performance, improve troubleshooting efficiency, and ensure proactive incident response.
 
+##grafana-server
+![grafana server](https://github.com/rukevweubio/configuration-and-installtion-of-grafana-for-linux-ubuntu/blob/main/Screenshot%20(489).png)
+
+![grafana server](https://github.com/rukevweubio/configuration-and-installtion-of-grafana-for-linux-ubuntu/blob/main/Screenshot%20(490).png)
+
+![grafana server](https://github.com/rukevweubio/configuration-and-installtion-of-grafana-for-linux-ubuntu/blob/main/Screenshot%20(491).png)
+
+![grafana server](https://github.com/rukevweubio/configuration-and-installtion-of-grafana-for-linux-ubuntu/blob/main/Screenshot%20(492).png)
+
+![grafana server](https://github.com/rukevweubio/configuration-and-installtion-of-grafana-for-linux-ubuntu/blob/main/Screenshot%20(483).png)
+
+![grafana server](https://github.com/rukevweubio/configuration-and-installtion-of-grafana-for-linux-ubuntu/blob/main/Screenshot%20(493).png)
+
+
+![grafana server](https://github.com/rukevweubio/configuration-and-installtion-of-grafana-for-linux-ubuntu/blob/main/Screenshot%20(496).png)
+
+
+
+![grafana server](https://github.com/rukevweubio/configuration-and-installtion-of-grafana-for-linux-ubuntu/blob/main/Screenshot%20(498).png)
